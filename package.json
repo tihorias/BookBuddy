@@ -30,7 +30,7 @@
   },
   "homepage": "https://bookbuddyapp.com/",
   "dependencies": {
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "bootstrap": "^4.3.1",
     "express": "^4.16.4",
     "marked": "^0.6.1",
